@@ -1,0 +1,10 @@
+{
+  "_name": "Nome",
+  "_birthDate": "Data Nascimento",
+  "_weight": "Peso",
+  "_salary": "Salário",
+  "_portuguese": "Português",
+  "_english": "Inglês",
+  "_internationalizing": "Internacionalizando",
+  "_qtdUsers": "Quantidade de usuários: {qtdUsers}"
+}
